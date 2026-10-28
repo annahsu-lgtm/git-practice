@@ -1,0 +1,12 @@
+# Office 暫存檔
+~$*
+*.tmp
+
+# 系統雜物
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 編輯器
+.vscode/
+.idea/
